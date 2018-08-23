@@ -8,7 +8,6 @@
     <sqlMapGenerator targetPackage="com.dao" targetProject="web4" />
     <javaClientGenerator targetPackage="com.dao" targetProject="web4" type="XMLMAPPER" />
     <table schema="web4" tableName="user" >
-     
     </table>
   </context>
 </generatorConfiguration>
